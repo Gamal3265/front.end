@@ -119,7 +119,7 @@ body{
 .timer span{
 	color: var(--clx);
 	font-size: 30px;
-	padding: 2px;
+	padding: 2px;	
 }
 .timer span:nth-child(1)::after,
 .timer span:nth-child(2)::after{
